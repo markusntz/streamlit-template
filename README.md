@@ -1,1 +1,1 @@
-# streamlit-boilerplate
+# streamlit-template
